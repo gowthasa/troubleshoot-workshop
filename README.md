@@ -1,4 +1,4 @@
-# Troubleshoot Workshop - Test
+# Troubleshoot Workshop
 
 EKS Troubleshoot Workshop this project is a workshop that simulates several failures in an EKS cluster. Workshop assistants have to troubleshoot what the failure is and fix it.
 
